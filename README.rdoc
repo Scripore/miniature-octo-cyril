@@ -1,5 +1,9 @@
 == README
 
+A craigslist clone from a udemy course. Just poking around and messing with it.
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
